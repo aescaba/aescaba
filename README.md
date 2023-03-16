@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Amanda! _(she/her)_
+## 👋 Hi, I’m Amanda!
 I'm a web developer and designer based in the New York Metropolitan Area.
 I spent five years studying computer science and design at Northeastern University in Boston, and I thrive in positions that incorporate skills from both of my disciplines.
 
